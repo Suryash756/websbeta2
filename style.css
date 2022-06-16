@@ -45,6 +45,8 @@ box-shadow: 0px 1px 2px 0px rgba(126, 245, 249, 0.7),
             2px 4px 8px 0px rgba(126, 245, 249, 0.7),
             2px 4px 16px 0px rgba(126, 245, 249, 0.7);
             margin:5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 input{
     height:30px;
@@ -68,29 +70,35 @@ button{
     font-weight:bold;
     border:solid;
     height:40px;
-    background-color:orange;
+    background-color:black;
     transition:transform.2s;
     margin-top: 5px;
     margin-top: 2px;
     font-weight: bolder;
     border-width: 3px;
-    color:black;
+    color:cyan;
     border-color: black;
     width:80px;
     font-size:15px;
     font-weight:bold;
     border:solid;
     height:35px;
-    background-color:orange;
+    background-color:black;
     transition:transform.2s;
     margin-top: 5px;
     margin-top: 2px;
     font-weight: bolder;
     border-width: 3px;
-    color:black;
+    color:cyan;
     border-color: rgb(243, 239, 239);
     width:80px;
     font-size:15px;
+    box-shadow: 0px 1px 2px 0px rgba(126, 245, 249, 0.7),
+            1px 2px 4px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 8px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 16px 0px rgba(126, 245, 249, 0.7);
+            margin:5px;
+    
     
 }
 button:hover{
@@ -178,8 +186,9 @@ font-family: "Times New Roman", Times, serif;
 #back{
     margin-top:5px;
     width:100px;
-    background-color:orange;
+    background-color:black;
     font-size:20px;
+    
 }
 #tesla{
     background-color: black;
@@ -189,4 +198,22 @@ font-family: "Times New Roman", Times, serif;
     width:50px;
     border:none;
     border-radius:20%;
+}
+input{
+    box-shadow: 0px 1px 2px 0px rgba(126, 245, 249, 0.7),
+            1px 2px 4px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 8px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 16px 0px rgba(126, 245, 249, 0.7);
+            margin:5px;
+}
+p{
+    box-shadow: 0px 1px 2px 0px rgba(126, 245, 249, 0.7),
+            1px 2px 4px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 8px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 16px 0px rgba(126, 245, 249, 0.7);
+            margin:5px;
+            background-color: black;
+            border-color: beige;
+            color: cyan;
+            margin-top:20px;
 }
