@@ -1,0 +1,192 @@
+body{
+    text-align: center;
+    background-color:black;
+    cursor: pointer;
+    box-shadow:15px 15px 15px 10px rgba(0,0,0,0.3);
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+    background-color:#000000
+}
+#web{
+    height:200px;
+    width:200px;
+    border-radius:20%;
+    transition:transform.2s ;
+    border:solid;
+    border-color:white ;
+}
+#web:hover{
+    transform:scale(0.9)
+}
+marquee{
+    background-color:black;
+    border:solid;
+    border-top: white;
+    color:white;
+    height:40px;
+    font-size:30px;
+    font-weight:bold;
+    text-decoration:underline;
+    margin:5px;
+    border-top: solid;
+    border-top-color:white;
+    background-color:#000000;
+    border-top-color:none ;
+    color:white;
+    height:40px;
+    font-size:30px;
+    font-weight:bold;
+    text-decoration:underline;
+    margin:5px;
+    border-top: solid;
+    border-top-color:white;
+    background-color:rgb(2, 2, 2);
+box-shadow: 0px 1px 2px 0px rgba(126, 245, 249, 0.7),
+            1px 2px 4px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 8px 0px rgba(126, 245, 249, 0.7),
+            2px 4px 16px 0px rgba(126, 245, 249, 0.7);
+            margin:5px;
+}
+input{
+    height:30px;
+    width:210px;
+    background-color: white;
+    font-weight:bold;
+    border:solid;
+    margin-top:5px;
+    margin-top:-2px;
+    border-width:3px;
+    height:30px;
+    width:210px;
+    background-color: white;
+    font-weight:bold;
+    border:solid;
+    margin-top:5px;
+    margin-top:-2px;
+    border-width:3px;
+}
+button{
+    font-weight:bold;
+    border:solid;
+    height:40px;
+    background-color:orange;
+    transition:transform.2s;
+    margin-top: 5px;
+    margin-top: 2px;
+    font-weight: bolder;
+    border-width: 3px;
+    color:black;
+    border-color: black;
+    width:80px;
+    font-size:15px;
+    font-weight:bold;
+    border:solid;
+    height:35px;
+    background-color:orange;
+    transition:transform.2s;
+    margin-top: 5px;
+    margin-top: 2px;
+    font-weight: bolder;
+    border-width: 3px;
+    color:black;
+    border-color: rgb(243, 239, 239);
+    width:80px;
+    font-size:15px;
+    
+}
+button:hover{
+    transform:scale(0.9);
+}
+img{
+    height: 150px;
+    width: 130px;
+
+    transform: transition.2s;
+    border-width:3px;
+    box-shadow:15px 15px 15px 10px rgba(254, 2, 2, 0.3);
+filter: drop-shadow(5px 5px 5px rgba(5, 228, 150, 0.3));
+background-color:rgb(255, 255, 255);
+box-shadow: 0px 1px 2px 0px rgba(126, 249, 126, 0.7),
+            1px 2px 4px 0px rgba(153, 249, 126, 0.7),
+            2px 4px 8px 0px rgba(148, 249, 126, 0.7),
+            2px 4px 16px 0px rgba(146, 249, 126, 0.7);
+            margin:5px;
+            border-radius:15%;
+    border:ridge;
+    border-color:black;
+    transform: transition.2s;
+    border-width:3px;
+    
+    
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+section{
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    background-color:black;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-top:5px;
+    margin-bottom:5px;  
+   background-color:transparent;
+    border-color: rgb(249, 249, 249);
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 20px 20px 20px 10px rgba(0,0,0,0.3);
+filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+box-shadow: 0px 1px 2px 0px rgba(0,255,255,0.7),
+            1px 2px 4px 0px rgba(0,255,255,0.7),
+            2px 4px 8px 0px rgba(0,255,255,0.7),
+            2px 4px 16px 0px rgba(0,255,255,0.7);
+
+margin-top:20px;
+}
+
+
+
+p{
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+    border:solid;
+    background: transparent;
+    width:200px;
+    background-color: orange;
+    border-width: 3px;
+    color:rgb(255, 255, 255);
+    font-weight:bold;
+    font-size:20px;
+    border:solid;
+    background: transparent;
+    width:200px;
+    background-color: orange;
+    border-width: 3px;
+    box-shadow:15px 15px 15px 10px rgba(0,0,0,0.3);
+filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+font-optical-sizing: auto;
+font-family: "Satisfy script=latin rev=2";
+font-weight: 100000;
+font-style: normal;
+font-stretch: normal;
+line-height: initial;
+font-family: "Times New Roman", Times, serif;
+}
+
+#back{
+    margin-top:5px;
+    width:100px;
+    background-color:orange;
+    font-size:20px;
+}
+#tesla{
+    background-color: black;
+}
+#design{
+    height:50px;
+    width:50px;
+    border:none;
+    border-radius:20%;
+}

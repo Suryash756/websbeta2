@@ -1,0 +1,36 @@
+img{
+    height:200px;
+    width:200px;
+    border-radius:20%;
+    transition:transform.2s;
+    border:solid;
+    border-color:white;
+    transform: transition.2s;
+    margin:10px;
+}
+img:hover{
+    transform: scale(0.9);
+}
+body{
+    background-color: black;
+    color:white;
+    border:solid;
+}
+h1{
+    color:white;
+    text-decoration:underline;
+}
+p{
+    font-size:large;
+}
+video{
+    height:200px;
+    width: 250px;
+    border:solid;
+    border-color:white;
+    border-width:3px;
+    margin:10px;
+}
+a{
+    color:white;
+}
